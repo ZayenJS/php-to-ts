@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@types/node": "^18.16.0",
+    "commander": "^10.0.1"
+  },
+  "name": "sf_to_ts",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "bin": {
+    "php-to-ts": "dist/main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
